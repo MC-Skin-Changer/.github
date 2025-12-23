@@ -12,9 +12,6 @@ Enjoy a vast built-in library of skins or import your own PNG files. The **MC Sk
 
 ## 🖼️ Application Preview
 
-![MC Skin Changer — Main Interface](https://www.minecraft.net/content/dam/minecraftnet/archive/HowToCustomizePlayerSkin_Tutorial_In-ArticleImage_StarterSkin_610x343.jpg)
-*Simple and intuitive interface for fast skin selection*
-
 ![MC Skin Changer — Skin Library](https://static.beebom.com/wp-content/uploads/2022/02/Change-skin-type-minecraft-bedrock.jpg)
 *Browse through categorized collections of premium skins*
 
